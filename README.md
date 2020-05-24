@@ -1,4 +1,5 @@
 # Sorting-Algorithm-Visualizer
+![Alt Text](https://media.giphy.com/media/d8bbB5l1KJKTOMF3fR/source.gif)
 ## About Project:<br />
 Sorting is an attempt to visualize and help to understand how some of the most
 famous sorting algorithms work. This project provides two standpoints to look at algorithms, one

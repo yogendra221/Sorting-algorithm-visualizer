@@ -1,5 +1,6 @@
 # Sorting-Algorithm-Visualizer
 <img src="sorting/output.gif" />
+
 ## About Project:<br />
 Sorting is an attempt to visualize and help to understand how some of the most
 famous sorting algorithms work. This project provides two standpoints to look at algorithms, one
